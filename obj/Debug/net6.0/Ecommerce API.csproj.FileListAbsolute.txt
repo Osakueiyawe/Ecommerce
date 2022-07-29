@@ -1,0 +1,33 @@
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\appsettings.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Ecommerce API.exe
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Ecommerce API.deps.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Ecommerce API.runtimeconfig.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Ecommerce API.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Ecommerce API.pdb
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.AssemblyReference.cache
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.AssemblyInfoInputs.cache
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.AssemblyInfo.cs
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.CoreCompileInputs.cache
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\scopedcss\bundle\Ecommerce API.styles.css
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.CopyComplete
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\refint\Ecommerce API.dll
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.pdb
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\Ecommerce API.genruntimeconfig.cache
+C:\Users\IYAWE\Desktop\DotNet Projects\Ecommerce API\obj\Debug\net6.0\ref\Ecommerce API.dll
